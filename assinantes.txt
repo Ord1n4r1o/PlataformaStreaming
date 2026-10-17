@@ -1,0 +1,241 @@
+40
+1
+Eduardo Silva
+123401
+eduardo.silva@email.com
+1
+0.0
+2
+Eduardo Pereira
+123402
+eduardo.pereira@email.com
+15
+0.0
+3
+Samuel Souza
+123403
+samuel.souza@email.com
+28
+15.0
+4
+Carlos Almeida
+123404
+carlos.almeida@email.com
+19
+5.0
+5
+Ana Almeida
+123405
+ana.almeida@email.com
+15
+0.0
+6
+Tatiana Santos
+123406
+tatiana.santos@email.com
+7
+5.0
+7
+Carlos Souza
+123407
+carlos.souza@email.com
+16
+15.0
+8
+Nicolas Silva
+123408
+nicolas.silva@email.com
+4
+10.0
+9
+Ana Pereira
+123409
+ana.pereira@email.com
+28
+0.0
+10
+Marina Costa
+123410
+marina.costa@email.com
+11
+5.0
+11
+Ana Costa
+123411
+ana.costa@email.com
+2
+5.0
+12
+Fernanda Almeida
+123412
+fernanda.almeida@email.com
+22
+15.0
+13
+Daniela Oliveira
+123413
+daniela.oliveira@email.com
+5
+5.0
+14
+Helena Souza
+123414
+helena.souza@email.com
+24
+15.0
+15
+Nicolas Costa
+123415
+nicolas.costa@email.com
+22
+5.0
+16
+Carlos Lima
+123416
+carlos.lima@email.com
+19
+15.0
+17
+Ana Souza
+123417
+ana.souza@email.com
+27
+15.0
+18
+Carlos Silva
+123418
+carlos.silva@email.com
+4
+0.0
+19
+Juliana Santos
+123419
+juliana.santos@email.com
+21
+5.0
+20
+Rafaela Santos
+123420
+rafaela.santos@email.com
+9
+5.0
+21
+Olivia Pereira
+123421
+olivia.pereira@email.com
+3
+5.0
+22
+Helena Almeida
+123422
+helena.almeida@email.com
+30
+0.0
+23
+Yasmin Oliveira
+123423
+yasmin.oliveira@email.com
+15
+10.0
+24
+Daniela Souza
+123424
+daniela.souza@email.com
+15
+5.0
+25
+Daniela Silva
+123425
+daniela.silva@email.com
+27
+15.0
+26
+Marina Almeida
+123426
+marina.almeida@email.com
+15
+0.0
+27
+Bruno Lima
+123427
+bruno.lima@email.com
+30
+10.0
+28
+Juliana Silva
+123428
+juliana.silva@email.com
+5
+15.0
+29
+Fernanda Silva
+123429
+fernanda.silva@email.com
+7
+15.0
+30
+Fernanda Santos
+123430
+fernanda.santos@email.com
+9
+0.0
+31
+Gabriel Souza
+123431
+gabriel.souza@email.com
+28
+0.0
+32
+Juliana Lima
+123432
+juliana.lima@email.com
+8
+5.0
+33
+Lucas Souza
+123433
+lucas.souza@email.com
+16
+5.0
+34
+Paulo Pereira
+123434
+paulo.pereira@email.com
+17
+5.0
+35
+Paulo Lima
+123435
+paulo.lima@email.com
+7
+10.0
+36
+Bruno Santos
+123436
+bruno.santos@email.com
+18
+15.0
+37
+Carlos Costa
+123437
+carlos.costa@email.com
+22
+10.0
+38
+Olivia Silva
+123438
+olivia.silva@email.com
+1
+15.0
+39
+Fernanda Costa
+123439
+fernanda.costa@email.com
+5
+15.0
+40
+Carlos Pereira
+123440
+carlos.pereira@email.com
+16
+5.0
